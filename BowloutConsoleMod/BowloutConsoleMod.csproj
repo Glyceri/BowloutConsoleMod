@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>D:\SteamLibrary\steamapps\common\BOWLOUT Playtest\BOWLOUT_Data\Managed\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="BowloutModManager">
       <HintPath>D:\SteamLibrary\steamapps\common\BOWLOUT Playtest\BOWLOUT_Data\Managed\BowloutModManager.dll</HintPath>
     </Reference>
@@ -47,6 +50,10 @@
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>D:\SteamLibrary\steamapps\common\BOWLOUT Playtest\BOWLOUT_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\SteamLibrary\steamapps\common\BOWLOUT Playtest\BOWLOUT_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
